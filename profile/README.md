@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://www.solvemotive.com/logo-icon-192.png" alt="SolveMotive" width="96" />
-
+  
 # SolveMotive
 
 **Custom Software, AI, and App Development**
